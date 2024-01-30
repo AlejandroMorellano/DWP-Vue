@@ -3,6 +3,7 @@
     <b-container>
       <b-breadcrumb :items="items"></b-breadcrumb>
       <b-button variant="outline-primary" to="/renta">Renta</b-button>
+      <b-button variant="outline-primary" to="/formulario">Formulario</b-button>
     </b-container>
     ESTA INICIO
   </div>

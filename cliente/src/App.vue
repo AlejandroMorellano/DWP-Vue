@@ -46,6 +46,9 @@
                   <b-nav-item>
                     <b-link :to="{ name: 'detalles' }"> Detalles </b-link>
                   </b-nav-item>
+                  <b-nav-item>
+                    <b-link :to="{name: 'formulario'}">Formulario</b-link>
+                  </b-nav-item>
                 </b-nav>
               </b-container>
             </b-sidebar>
